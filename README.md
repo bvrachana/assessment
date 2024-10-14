@@ -16,4 +16,4 @@ Output Images
 ![Alt Text](https://firebasestorage.googleapis.com/v0/b/conways-game-8dbb4.appspot.com/o/conwaysgame1.png?alt=media&token=07dec91a-994e-42ae-9ad4-fe9794f675f2)
 
 Output Videos
-[Watch the video](https://firebasestorage.googleapis.com/v0/b/conways-game-8dbb4.appspot.com/o/conwaysgame%20(2).mp4?alt=media&token=de355a52-ffa4-4c8a-a841-41b4aa253c20)
+[Watch the demo video](https://firebasestorage.googleapis.com/v0/b/conways-game-8dbb4.appspot.com/o/conwaysgame%20(2).mp4?alt=media&token=de355a52-ffa4-4c8a-a841-41b4aa253c20)
