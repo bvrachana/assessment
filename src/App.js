@@ -48,7 +48,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    const interval = setInterval(nextGeneration, 1000);
+    const interval = setInterval(nextGeneration, 3000);
     return () => clearInterval(interval);
   }, []);
 
@@ -62,10 +62,12 @@ const App = () => {
 
   return (
     <div>
-      <h1>Conway's Game of Life</h1>
+      <h1 style={{textAlign:"center"}}>Conway's Game of Life</h1>
       <div
         style={{
           display: "grid",
+          justifyContent:"center",
+          alignItems:"center",
           gridTemplateColumns: `repeat(${numCols}, 20px)`,
         }}
       >
